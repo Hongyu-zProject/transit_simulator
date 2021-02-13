@@ -1,0 +1,8 @@
+*.o
+*.out
+*.pvt
+*.html
+*.tex
+/build/*
+/docs/html/*
+/docs/latex/*
