@@ -1,4 +1,3 @@
-**NOTE**: Please make sure that **all Tests** pass before pushing any changes. 
 
 ### Run Tests:
 
@@ -54,4 +53,3 @@ $./build/bin/<sim executable> <port_number>
 http://127.0.0.1:<port_number>/web_graphics/project.html
 ```
 
-Note that for lab14, the `sim target` and `sim executable` that you build are both called `vis_sim`. Use `vis_sim` in place of the `<sim target>` and `<sim executable>` arguments above.
